@@ -1,5 +1,5 @@
 
-MSIL.vitaminc by linuspauling || Project Folder
+// MSIL.vitaminc by linuspauling
 
 /*
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
